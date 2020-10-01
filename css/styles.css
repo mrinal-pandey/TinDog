@@ -154,6 +154,7 @@ p {
 #features {
   position: relative;
 }
+/* MOBILE RESPONSIVE */
 
 @media (max-width: 1028px) {
   #title {
