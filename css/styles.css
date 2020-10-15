@@ -1,3 +1,4 @@
+/* BODY */
 body {
   font-family: "Montserrat";
   text-align: center;
@@ -13,6 +14,8 @@ h2 {
   line-height: 1.5;
 }
 
+/* PARAGRAPH TAG */
+
 p {
   font-family: "Montserrat-Light";
   font-size: 1.5rem;
@@ -21,6 +24,7 @@ p {
   margin: 0 auto;
 }
 
+/* ALL CLASSES */
 .colored-section {
   color: #FFFFFF;
   background-color: #FF4C68;
@@ -127,6 +131,8 @@ p {
   margin-bottom: 2rem;
 }
 
+/* ALL ID's */
+
 #title .container-fluid {
   padding: 3% 15% 7%;
   text-align: left;
@@ -148,6 +154,7 @@ p {
 #features {
   position: relative;
 }
+/* MOBILE RESPONSIVE */
 
 @media (max-width: 1028px) {
   #title {
